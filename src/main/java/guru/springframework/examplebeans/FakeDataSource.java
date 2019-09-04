@@ -1,6 +1,7 @@
 package guru.springframework.examplebeans;
 
 public class FakeDataSource {
+
     private String user;
     private String password;
     private String url;
